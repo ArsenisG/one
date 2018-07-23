@@ -1,0 +1,7 @@
+numpy==1.14.3
+Django==2.0
+matplotlib==2.2.2
+six==1.11.0
+pandas==0.23.0
+setuptools==39.1.0
+adjustText==0.7.3
