@@ -25,12 +25,12 @@ SECRET_KEY = 'h^=)(vi^-)e#wgklj9kk0jv&+#&d+8f&5qm9*k76hxa%7-7zm2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['my-repository-abc.apps.cs.cf.ac.uk','localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['one-time.apps.cs.cf.ac.uk','localhost', '127.0.0.1']
 
 
 # Application definition
 
-INSTALLED_APPS = [
+INSTALLED_APPS = [ 
 	'ABCquestionnaire.apps.AbcquestionnaireConfig',
     'django.contrib.admin',
     'django.contrib.auth',
